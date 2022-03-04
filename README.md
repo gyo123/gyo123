@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Gyo!!!</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de dados no mundo digital</h3>
 
-- Atualmente eu estou aprendendo **Python e Machine Learning**
+- Atualmente eu estou aprendendo **Python e Linguagem R**
 
 - Tenho alguns projetos legais que não estão aqui e sim no meu instagram, confira: [https://www.instagram.com/gyoo_123/](https://www.instagram.com/gyoo_123/)
 

@@ -3,7 +3,7 @@
 
 - Atualmente eu estou aprendendo **Python e Machine Learning**
 
-- Todos os meus projetos estão disponíveis em [https://www.instagram.com/gyoo_123/](https://www.instagram.com/gyoo_123/)
+- Tenho alguns projetos legais que não estão aqui e sim no meu instagram, confira: [https://www.instagram.com/gyoo_123/](https://www.instagram.com/gyoo_123/)
 
 - Me pergunte sobre **SQL, AWS, Power BI e Python**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Gyo!!!</h1>
-<h3 align="center">Apaixonado por Ciência e Análise de dados no mundo digital</h3>
+<h3 align="center">Apaixonado por Ciência de dados no mundo digital</h3>
 
 - Atualmente eu estou aprendendo **Python e Linguagem R**
 
